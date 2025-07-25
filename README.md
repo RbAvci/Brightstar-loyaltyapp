@@ -26,3 +26,12 @@ This MVP is designed to:
   - Personalized offers  
   - Staff tools and in-store interfaces  
   - Data analytics and reporting dashboards
+  
+## 🔭 Roadmap
+
+- [x] MVP onboarding journey  
+- [x] Basic points tracking  
+- [ ] Offer personalization  
+- [ ] Rewards redemption  
+- [ ] In-store staff interface  
+- [ ] Analytics dashboard
