@@ -1,51 +1,46 @@
-## 🌟 BrightStar MVP Description
+# BrightStar Loyalty App
 
-The **BrightStar MVP** focuses on delivering the essential features of a customer loyalty mobile application to enable a smooth user onboarding experience and basic rewards functionality.
+A mobile loyalty application focused on smooth user onboarding and basic rewards management.
 
-### ✅ Core Capabilities Included
+## MVP Overview
 
-- **🧭 User Onboarding**  
-  Account registration, login, and preference selection to personalize the user experience.
+**BrightStar MVP** focuses on delivering the essential features needed for a functional loyalty app. We're building the foundation that enables smooth user onboarding and basic rewards management.
 
-- **🎁 Loyalty Points Tracking**  
-  A basic engine that allows users to track and view their loyalty points.
-
-- **📊 Basic Dashboard**  
-  A clean dashboard displaying the user’s current points and account information.
-
-- **📬 Customer Communication**  
-  Email and push notifications for onboarding, confirmations, and basic updates.
-
-### 🎯 Purpose of the MVP
-
-This MVP is designed to:
-
-- Validate the core user journey and technical foundation  
+**This MVP is designed to:**
+- Validate the core user journey and technical foundation
 - Collect feedback from early adopters  
-- Support future enhancements such as:
-  - Personalized offers  
-  - Staff tools and in-store interfaces  
-  - Data analytics and reporting dashboards
-  
-## 🔭 Roadmap
+- Support future enhancements like personalized offers and staff tools
 
-- [x] MVP onboarding journey  
-- [x] Basic points tracking  
-- [ ] Offer personalization  
-- [ ] Rewards redemption  
-- [ ] In-store staff interface  
-- [ ] Analytics dashboard
+## Key Features
 
-## Definition of Done (DoD)
+- **User Onboarding** - Registration, login, and preference setup
+- **Points Tracking** - View and monitor loyalty points
+- **Dashboard** - Clean interface showing account information
+- **Notifications** - Email and push notifications for updates
 
-A backlog item in BrightStar is considered Done when:
+## Getting Started
 
-- It meets all Acceptance Criteria  
-- It has been code-complete and peer-reviewed  
-- Relevant unit and integration tests have passed  
-- UI/UX has been reviewed (if applicable)  
-- It has been deployed to the test/staging environment  
-- No critical bugs are open  
-- Documentation (if needed) is updated  
-- Stakeholder or Product Owner has accepted the work
+1. Check out our [Wiki](https://github.com/RbAvci/Brightstar-loyaltyapp/wiki) for full documentation
+2. Review the Definition of Done before starting work
+3. Follow our sprint planning guidelines
 
+## Development
+
+All development guidelines, processes, and acceptance criteria are maintained in our project wiki. Please refer to the wiki for:
+
+- Definition of Ready (DoR)
+- Definition of Done (DoD) 
+- Sprint planning processes
+- OKRs and KPIs
+
+## What's Next -- Roadmap
+
+Once the MVP is validated, we're planning to expand with:
+- Personalized offers and recommendations
+- Rewards redemption functionality  
+- In-store staff interface
+- Advanced analytics and reporting
+
+---
+
+For detailed information, please see our [project wiki](https://github.com/RbAvci/Brightstar-loyaltyapp/wiki).
